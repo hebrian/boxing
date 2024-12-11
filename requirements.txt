@@ -1,0 +1,4 @@
+gymnasium==1.0.0
+keyboard==0.13.5
+numpy==2.2.0
+torch==2.5.1
