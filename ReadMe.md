@@ -1,8 +1,25 @@
-To test the MADDPG model against the random policy: run maddpg/maddpg_dev_random.ipynb
-To train the MADDPG model: run maddpg/maddpg_dev.ipynb
-To test and train the PPO model: run self_play_PPO/self_play_PPO.ipynb
+# MADDPG and PPO Models
 
-External Library:
+## Instructions
+
+### Testing and Training Scripts
+
+- **Test the MADDPG model against the random policy**  
+  Run: `maddpg/maddpg_dev_random.ipynb`
+
+- **Train the MADDPG model**  
+  Run: `maddpg/maddpg_dev.ipynb`
+
+- **Test and train the PPO model**  
+  Run: `self_play_PPO/self_play_PPO.ipynb`
+
+---
+
+## External Libraries
+
+The following external libraries are required to run the code:
+
+```plaintext
 gymnasium==1.0.0
 keyboard==0.13.5
 numpy==2.2.0
