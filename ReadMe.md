@@ -1,5 +1,9 @@
 # MADDPG and PPO Models
 
+![PPO vs Random Demo](assets/ppo_vs_random_policy.gif)
+
+*Figure 1: Trained PPO agent (white) outperforming a random policy (black)*
+
 ## Instructions
 
 ### Testing and Training Scripts
